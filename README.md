@@ -1,16 +1,13 @@
-# rick_and_morty
+# Rick and Morty - IN-PROGRESS
 
-A new Flutter project.
+![Логотип проекта](https://github.com/XaviaFlutter/RickAndMorty_flutter/blob/master/assets/icons/app_launcher_icon.png?raw=true)
 
-## Getting Started
+## Описание
 
-This project is a starting point for a Flutter application.
+Проект Rick and Morty — тестовое приложение, предназначенное для отработки навыков разработки на Flutter. Оно использует публичное API Rick and Morty API 
+для получения данных о персонажах, локациях и эпизодах, а также интерфейс, разработанный на основе шаблона с Figma.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Показ
+<a href="https://youtube.com/shorts/pqY8MUratck">
+  <img src="https://i9.ytimg.com/vi/pqY8MUratck/mq2.jpg?sqp=CKjfxbsG-oaymwEoCMACELQB8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLAKRvodyFJkrRgUWU2qDzdZsz7RVw" width="250" />
+</a>
