@@ -7,3 +7,8 @@ flutter_native_splash:
   image: "assets/images/logo_rick_and_morty.png"
   branding: "assets/images/brand_logo.png"
   android_gravity: top
+  android_12:
+    background_image: "assets/images/splash_bg.png"
+    image: "assets/images/logo_rick_and_morty.png"
+    branding: "assets/images/brand_logo.png"
+    android_gravity: top
